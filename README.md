@@ -5,6 +5,6 @@ FedAvg_WESAD_Baseline+Defense.py contains subject-independent evaluation and def
 
 FedAvg_WESAD_subject_depend.py contains subject-dependent evaluation.
 
-Inference_Attacks.py contains the attacks (Reported Membership and Label Inference Attacks).
+Inference_Attacks.py contains the attacks (reported Membership and Label Inference Attacks).
 
 README.txt for more information
